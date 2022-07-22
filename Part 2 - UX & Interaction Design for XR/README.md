@@ -1,6 +1,6 @@
 # Part 2: UX & Interaction Design for XR #
 
-PART 2 (**UX & Interaction Design for XR)** from Extended Reality Specialization course by Michael Nebeling from University of Michigan.
+Second part of the Extended Reality Specialization course by Michael Nebeling from University of Michigan.
 
 Official link on Coursera: [User Experience & Interaction Design for AR/VR/MR/XR](https://www.coursera.org/learn/user-experience-interaction-design-augmented-virtual-mixed-extended-reality)
 
@@ -25,4 +25,31 @@ preview physical prototypes on AR/VR devices.
 
 ## Assignments ##
 
-...
+## Assignment 1 - Your XR design critique ##
+
+I played around with the 3D models of dinosaurs that Google propose when you search a some kind of dinosaur from your
+mobile device. This project is done in partnership with Jurassic World, and only the specimens from the franchise are
+available.
+
+**I Like**
+
+- the realism of the dinosaur, with many details and realistic movements;
+- the "_view actual size_" feature.
+
+**I Wish**
+
+- a better understanding of the space, since most of the times the app is not able to place the dinosaur correctly in
+  the space, even in very simple cases (see attached screenshot);
+- allow the "_view actual size_" feature only if there is enough space! ...it doesn't make sense that I see a non-sense
+  placement in an indoor space (see [attached screenshot](assignments-material/3D-dinosaurs-mobile-app.jpg));
+- more dinosaurs!
+
+**What If**
+
+- dinosaurs could do simple interaction (e.g. emit a sound when touched);
+- the space detection could be selected interactively together with the user.
+
+My expectation have been met for the purpose of the app, even if I'm looking forward for additional feature that could
+be easy to add, for example a basic interaction with the dinosaur.
+
+
