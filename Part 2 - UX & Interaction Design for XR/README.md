@@ -54,6 +54,10 @@ be easy to add, for example a basic interaction with the dinosaur.
 
 ![app screenshot 1](./assignments-materials/triceratops_1.jpg | width=100)
 
+<img src="./assignments-materials/triceratops_1.jpg" alt="app screenshot 1" width="100">
+
+<img src="assignments-materials/triceratops_1.jpg" alt="app screenshot 1" width="10">
+
 ![app screenshot 2](assignments-materials/triceratops_2.jpg =250x250)
 
 ![app screenshot 3](assignments-materials/triceratops_3.jpg =20)
