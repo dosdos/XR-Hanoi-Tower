@@ -42,7 +42,7 @@ available.
   the space, even in very simple cases (see attached screenshots [1](./assignments-materials/triceratops_1.jpg), 
   [2](./assignments-materials/triceratops_2.jpg), and [3](./assignments-materials/triceratops_3.jpg));
 - allow the "_view actual size_" feature only if there is enough space! ...it doesn't make sense that I see a non-sense
-  placement in an indoor space (see [attached screenshot](assignments-materials/triceratops_0.jpg));
+  placement in an indoor space (see [attached screenshot](./assignments-materials/triceratops_0.jpg));
 - more dinosaurs!
 
 **What If**
@@ -52,7 +52,6 @@ available.
 
 My expectation have been met for the purpose of the app, even if I'm looking forward for additional feature that could
 be easy to add, for example a basic interaction with the dinosaur.
-
 
 ## Assignment 2 - Storyboard ##
 
@@ -68,9 +67,41 @@ I'd like to have:
 About point 3, I got inspiration from the "Arctic Journey" demo in the Google Cardboard default app (see the image
 attached below).
 
-![see attached image](assignments-materials/Google-Cardboard-demo-Arctic-Journey.jpg)
+![see attached image](./assignments-materials/Google-Cardboard-demo-Arctic-Journey.jpg)
 
-The [attached sketch](assignments-materials/Sketch.jpg) describes the additional features 1, 2 and 3, with a simple
-description of each step. I also created a sample result using a [mock of the cardboard frame](design-materials/stereo_view.png).
+The [attached sketch](./assignments-materials/Sketch.jpg) describes the additional features 1, 2 and 3, with a simple
+description of each step. I also created a sample result using a [mock of the cardboard frame](./design-materials/stereo_view.png).
 
-![see attached image](assignments-materials/triceratops-mock.png)
+![see attached image](./assignments-materials/triceratops-mock.png)
+
+## Assignment 3 - Physical prototype ##
+
+For this assignment I created a physical prototype of the enhanced experience I designed for the dinosaurs 3D models
+provided by Google in collaboration with Jurassic World. I took advantage of the previous storyboard, narrowing the
+focus mainly on the following two aspects:
+
+- interact with the dinosaur;
+- get additional info about the dinosaur.
+
+With this experiment I was able to get a better understanding of the usability, identifying more details about the
+environment and the interactions.
+
+For the diorama I used Lego instead of clay, obtaining a pretty fair result (I'm very proud of my triceratops :)
+
+The physical prototype includes:
+
+- A [paper sketch](./assignments-materials/Sketch.jpg) of the prototype with expected interactions
+- The 3D model of the triceratops built with Lego
+- The interactive prompts the app should show the user during the interaction: the blinking red dot to indicate the
+  place where user will click and the popup message in a label with the info about the current dinosaur.
+
+![see attached image](./assignments-materials/triceratexpeerience.png)
+
+## Assignment 4 - Digital prototype ##
+
+I realized a digital prototype with pictures and then with a demo video. 
+In the video I tried to describe the expected result with a 360 3D-experience. The main idea is to prototype first
+physically and then digitally. I also tried to experiment with [XR MOOC](https://xrmooc.glitch.me/camera/vr) but the
+result was not good, and I preferred to submit the experience I got with a regular mobile camera.
+
+[![Watch the demo video here](./assignments-materials/3Diceratops-video-preview.png)](./assignments-materials/3Diceratops.mp4)
