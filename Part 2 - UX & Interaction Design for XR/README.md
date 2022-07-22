@@ -52,11 +52,11 @@ available.
 My expectation have been met for the purpose of the app, even if I'm looking forward for additional feature that could
 be easy to add, for example a basic interaction with the dinosaur.
 
-![app screenshot 1](assignments-materials/triceratops_1.jpg)
+![app screenshot 1](./assignments-materials/triceratops_1.jpg =x10)
 
-![app screenshot 2](assignments-materials/triceratops_2.jpg)
+![app screenshot 2](assignments-materials/triceratops_2.jpg =x100)
 
-![app screenshot 3](assignments-materials/triceratops_3.jpg)
+![app screenshot 3](assignments-materials/triceratops_3.jpg =20100)
 
 
 ## Assignment 2 - Storyboard ##
