@@ -24,6 +24,7 @@ larger discussion around trends and the future of XR.
 ### Issues ###
 
 Three main topics:
+
 * Social and ethical concerns
 * Accessibility and equity
 * Privacy and security
