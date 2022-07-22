@@ -1,6 +1,6 @@
 # Part 1: Intro to XR #
 
-PART 1 (**Intro to XR)** from Extended Reality Specialization course by Michael Nebeling from University of Michigan.
+First part of the Extended Reality Specialization course by Michael Nebeling from University of Michigan.
 
 Official link on
 Coursera: [Intro to AR/VR/MR/XR: Technologies, Applications & Issues](https://www.coursera.org/learn/intro-augmented-virtual-mixed-extended-reality-technologies-applications-issues "Official link on Coursera")
@@ -19,8 +19,11 @@ The course comes with an honors track in which learners will try out and classif
 technologies when designing solutions for various XR application scenarios, and dive into the issues contributing to the
 larger discussion around trends and the future of XR.
 
+## Notes from the course ##
+
 ### Issues ###
 
+Three main topics:
 * Social and ethical concerns
 * Accessibility and equity
 * Privacy and security
@@ -78,7 +81,7 @@ The crucial point is that opportunities and connections between skills are creat
 for universities to contribute by investing in the XR technology and make it available to students, since it's currently
 very expensive and not affordable for most of them.
 
-## Assignment ##
+## Assignments ##
 
 ### Question 1 ###
 
@@ -93,7 +96,7 @@ on and why you consider them an important set of issues.
 > Also installing the APK directly, I wasn't able to make it work with Android, then I need to use an iPhone.
 https://www.ikea.com/ch/en/customer-service/mobile-apps/
 
-### Question 2 ### 
+### Question 2 ###
 
 Describe which one of the following activities you performed and why you chose to do that activity:
 
@@ -105,7 +108,7 @@ Describe which one of the following activities you performed and why you chose t
 
 > I chose the object recognition activity, since I'd like to focus on the privacy and security concerns.
 
-### Question 3 ### 
+### Question 3 ###
 
 Provide your analysis of the impact on users:
 
