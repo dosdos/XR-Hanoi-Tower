@@ -19,11 +19,133 @@ digital prototype of an XR experience. You will work on exercises that allow you
 build XR technologies into your workflow by working with specific templates and new digital tools that allow you to
 preview physical prototypes on AR/VR devices.
 
-## Notes ##
+## Notes from the course ##
 
-...
+
+### XR Process ###
+
+1. Needfinding & Brainstorming: framing the problem via scenarios & use cases, personas, and competitors
+2. Storyboarding & Prototyping: creating mockups using paper and digital tools, involving XR devices
+3. Development & Testing: Creating application using WebXR, Unity/Unreal, or native SDK
+4. Deployment & Analytics: Deploying application on XR device, collecting data during usage
+
+Design thinking for XR:
+1. Empathize --> can't just ask/observe
+2. Define --> don't just commit to AR/VR
+3. Ideate --> Ignore tech constraints
+4. Prototype --> Focus on the unknowns
+5. Test --> Act as wizard to fill the gaps
+6. Implement --> Use the best-suited tools
+
+### Prototyping ###
+
+Seven Techniques to Help You Innovate
+1. Ideate-Implement-Inspect-Iterate Design Cycle 
+2. "Killer-App" Problem / Novelty ≠ Creativity
+3. Problem-Promise-Premise Approach 
+4. Write the Intro First Approach 
+5. [Idea Hexagon](https://www.coursera.org/lecture/user-experience-interaction-design-augmented-virtual-mixed-extended-reality/idea-hexagon-mk0sq) 
+6. Object-Control Design Matrix 
+7. Threshold & Ceiling in Tool Design
+
+Prototyping phases:
+1. Storyboarding & wireframes
+2. Physical prototypes
+3. Digital prototypes
+
+The design of a Usability test / user study is a process made of:
+1. Goals
+2. Tasks
+3. Participants
+4. Devices
+5. Metrics
+6. Analysis
+
+### Design Principles and Methods for XR ###
+
+What are your main take-aways from the videos in this segment? Was anything unclear?
+> The main take-away I got from the videos in this section is about the huge amount of aspects which a designer should 
+> take into consideration. The videos form Mike Alger are a great food for thought.
+
+Were you familiar with the concept of scenarios and personas and are they something you usually do as part of your
+design process?
+> I mostly worked with web application, and I widely used target personas to address user needs taking care of the UX. 
+> I appreciated the suggestion of avoiding to identify yourself (as a develeoper or designer) into the persone, and 
+> leaving the bias out of the process.
+
+When talking about competitive analysis and design space analysis, did you agree with what I said about how to look for
+gaps rather than try to do it all?
+> I totally agree: Looking for gaps instead of just strenght points, let you focus on the competive advantage during 
+> the design space analysis.
+
+The problem with guiding principles is that they are often too general and hard to apply. Did you have some guiding
+principles that you would like to share with us?
+> My personal suggestion is to firstly focus on the feature that is bringing the most value to the final user.
+
+### Design Guidelines for XR Experiences ###
+
+When designing the lecture, I was thinking that some of my guidelines should be more specific to VR while others should
+be more for AR. But in the end I felt that for the ones I shared they often apply to both. Can you think of design
+guidelines that are more specific to one or the other?
+
+Do's
+>  - Offer alternative ways to travel -> VR
+>  - Use interface metaphors  -> VR
+>  - Use physical affordances -> VR
+>  - Minimize explicit interactions -> AR & VR
+>  - Put important elements in the foreground, avoid periphery -> VR
+>  - Provide visual and audio cues to guide users through tasks -> AR & VR
+
+Don'ts
+>  - Move user without their input -> VR
+>  - Reinvent reality  -> AR
+>  - Just copy/paste real world  -> AR
+>  - Rely on gestures or speech  -> AR & VR
+>  - Have users read a lot of text  -> AR & VR
+>  - Put lots of content in the HUD  -> AR & VR
+>  - Remap controller buttons, break conventions  -> AR & VR
+
+
 
 ## Assignments ##
+
+Project Title:
+> 3Dceratops: enhance the Google dinosaurs experience with more interactions
+
+Design Context:
+_(In a few sentences, describe the design context in which your project is situated. Make it clear whether you have been
+designing for AR or VR.)_
+> The design context is the enhancement of an existing app for AR.
+> The app I reviewed is the 3D models of dinosaurs that Google propose when you search a dinosaur by name from mobile
+> (the project is in partnership with the Jurassic World franchise). The idea is to have a better interaction with the
+> 3D dinosaur and get additional info about it when the user click on it.
+
+Design Process:
+_(Briefly describe your design process around key milestones and mention any methods and tools used throughout.)_
+> The first key process has been the "I Like / I Wish / What If" exercise, when I realised that I liked the idea and the
+> realism of the dinosaur with many details and realistic movements, but I would like to improve the interaction with
+> it, for example emit a sound when touched and provide additional info, and improve the space detection and increase
+> the number of available dinosaurs. Another key process has been the storyboard, when I iterated on the features and
+> I refined them. At the end, during the physical and digital prototyping, I just focused on the features I considered
+> more important, the interaction with the dinosaurs.
+
+Storyboards, Physical & Digital Prototypes:
+> 3Diceratops: Interact with 3D dinosaurs in your space using AR
+
+New Design Idea:
+_(Provide a description of your new idea. Summarize the key interactions you have implemented in your prototype in
+support of this new idea.)_
+> Enhance the interaction between the users and the 3D dinosaurs
+
+Design Decisions and Rationale:
+_(Describe your new idea and describe which changes and extensions it required to the existing design. Provide a
+rationale for your design decisions when implementing your new idea. Refer to lectures or readings with citations to
+back up your design decisions.)_
+> The main idea is to interact with 3D dinosaurs through a mobile phone, improving the experience of the existing app
+> with additional interactions and info about the dinosaur. The entire design process gave me a better understanding
+> of the usability, identifying more details about the environment and the interactions.
+> In order to create the diorama I used Lego instead of clay, and I'm very proud of my triceratops.
+> I will apply all the learnings about the design process far beyond the AR world, this course is awesome!
 
 ## Assignment 1 - Your XR design critique ##
 
@@ -39,7 +161,7 @@ available.
 **I Wish**
 
 - a better understanding of the space, since most of the times the app is not able to place the dinosaur correctly in
-  the space, even in very simple cases (see attached screenshots [1](./assignments-materials/triceratops_1.jpg), 
+  the space, even in very simple cases (see attached screenshots [1](./assignments-materials/triceratops_1.jpg),
   [2](./assignments-materials/triceratops_2.jpg), and [3](./assignments-materials/triceratops_3.jpg));
 - allow the "_view actual size_" feature only if there is enough space! ...it doesn't make sense that I see a non-sense
   placement in an indoor space (see [attached screenshot](./assignments-materials/triceratops_0.jpg));
