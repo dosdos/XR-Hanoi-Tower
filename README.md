@@ -1,7 +1,8 @@
 # Extended Reality Specialization #
 
 The purpose of this course is to get familiar with VR, AR, MR, and XR, understanding key issues about XR theory, design
-and development.
+and development. As final assignment, I implemented an augmented reality version of the Hanoi Tower game using with
+WebXR.
 
 The specialization is divided into 3 courses:
 
@@ -12,11 +13,12 @@ The specialization is divided into 3 courses:
 Official link on
 Coursera: [Extended Reality for Everybody Specialization](https://www.coursera.org/specializations/extended-reality-for-everybody)
 
-The core of this specialization is unit 3, where a demo app is developed using WebX3.
+The core of this specialization is unit 3, where a demo app is developed using WebXR.
 
-I personally recommend this course because ...
+I personally recommend this course since it provides a 360-degree overview of the XR world, not just focusing on
+development, but facing complex topics like privacy and accessibility.
 
-### Run the Hanoi Tower app with WebX3 ###
+### Run the Hanoi Tower app with WebXR ###
 
 Go to the [Part 3 README](Part%203%20-%20Developing%20XR%20with%20WebXR/README.md) to get the step-by-step instruction
 about how to run the AR application I made for the final assignment.
